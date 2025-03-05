@@ -9,7 +9,7 @@ The general characteristics of sensor design are:
 - Mass: 4 grams
 - Panel mountedable into 14x14 mm hole with two M2 screws.
 - Electrical connection by soldering on the panel PCB or by harness.
-- FOV: ~100 degrees, resolution: 0.13°, accuracy: ±1° (discussed in the desgin document)
+- FOV: ~100 degrees, resolution: 0.13°, accuracy: ±1°
 - Refresh rate up to 100 Hz. (Sampling time: 4 ms + communication overhead)
 - Can provide following data products:
     - Raw current measurements
